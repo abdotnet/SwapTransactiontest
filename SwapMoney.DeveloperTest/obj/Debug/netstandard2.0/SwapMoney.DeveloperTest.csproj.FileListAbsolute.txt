@@ -1,0 +1,9 @@
+C:\Users\Abuba\Downloads\SwapMoneyTest\SwapMoneyTest\SwapMoney.DeveloperTest\bin\Debug\netstandard2.0\SwapMoney.DeveloperTest.deps.json
+C:\Users\Abuba\Downloads\SwapMoneyTest\SwapMoneyTest\SwapMoney.DeveloperTest\bin\Debug\netstandard2.0\SwapMoney.DeveloperTest.dll
+C:\Users\Abuba\Downloads\SwapMoneyTest\SwapMoneyTest\SwapMoney.DeveloperTest\bin\Debug\netstandard2.0\SwapMoney.DeveloperTest.pdb
+C:\Users\Abuba\Downloads\SwapMoneyTest\SwapMoneyTest\SwapMoney.DeveloperTest\obj\Debug\netstandard2.0\SwapMoney.DeveloperTest.csprojAssemblyReference.cache
+C:\Users\Abuba\Downloads\SwapMoneyTest\SwapMoneyTest\SwapMoney.DeveloperTest\obj\Debug\netstandard2.0\SwapMoney.DeveloperTest.csproj.CoreCompileInputs.cache
+C:\Users\Abuba\Downloads\SwapMoneyTest\SwapMoneyTest\SwapMoney.DeveloperTest\obj\Debug\netstandard2.0\SwapMoney.DeveloperTest.AssemblyInfoInputs.cache
+C:\Users\Abuba\Downloads\SwapMoneyTest\SwapMoneyTest\SwapMoney.DeveloperTest\obj\Debug\netstandard2.0\SwapMoney.DeveloperTest.AssemblyInfo.cs
+C:\Users\Abuba\Downloads\SwapMoneyTest\SwapMoneyTest\SwapMoney.DeveloperTest\obj\Debug\netstandard2.0\SwapMoney.DeveloperTest.dll
+C:\Users\Abuba\Downloads\SwapMoneyTest\SwapMoneyTest\SwapMoney.DeveloperTest\obj\Debug\netstandard2.0\SwapMoney.DeveloperTest.pdb

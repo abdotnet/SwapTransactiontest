@@ -1,0 +1,1 @@
+﻿Re-write ProcessTransaction() method to make it more testable.
